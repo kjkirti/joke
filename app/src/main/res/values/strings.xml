@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Joke</string>
+    <string name="response">jokes</string>
+    <string name="question">What is the secret of Comedy?</string>
+</resources>
